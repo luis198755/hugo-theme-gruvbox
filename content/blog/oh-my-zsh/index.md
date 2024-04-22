@@ -9,3 +9,9 @@ cover:
   alt:
   caption: By [Luis Alberto Rodríguez](https://luisalberto.vercel.app/)
 ---
+
+## Install
+
+Installing Oh My Zsh on a Linux system is a straightforward process that
+enhances the default shell with additional features and themes. Here’s a
+step-by-step guide to install Oh My Zsh:
