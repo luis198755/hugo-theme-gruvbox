@@ -991,6 +991,14 @@
     index.add(
       {
         id: 0,
+        href: "/blog/oh-my-zsh/",
+        title: "Oh my Zsh Install",
+        description: "Install# Installing Oh My Zsh on a Linux system is a straightforward process that enhances the default shell with additional features and themes. Here\u2019s a step-by-step guide to install Oh My Zsh:\nPrerequisites: Make sure you have zsh installed on your system. You can install it using your package manager. For example, on Ubuntu, you can install it with:\nsudo apt update sudo apt install zsh Install Oh My Zsh: You can install Oh My Zsh via the curl or wget command.",
+        content: 'Install# Installing Oh My Zsh on a Linux system is a straightforward process that enhances the default shell with additional features and themes. Here\u2019s a step-by-step guide to install Oh My Zsh:\nPrerequisites: Make sure you have zsh installed on your system. You can install it using your package manager. For example, on Ubuntu, you can install it with:\nsudo apt update sudo apt install zsh Install Oh My Zsh: You can install Oh My Zsh via the curl or wget command. Here are the commands for both methods:\nUsing curl:\nsh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" Change your default shell: After installing Oh My Zsh, you might want to change your default shell to zsh if it isn&rsquo;t already. You can do this by running:\nchsh -s $(which zsh) You will need to log out and log back in to see this change.\nCustomize your environment: Oh My Zsh comes with lots of themes and plugins. You can change themes by modifying the ZSH_THEME variable in the ~/.zshrc file. Plugins can be added by editing the plugins array in the same file.\nThis will set up a robust, feature-rich shell environment using Oh My Zsh, making your terminal more user-friendly and visually appealing.\nOh my Zsh web: https://ohmyz.sh/\n'
+      }
+    ).add(
+      {
+        id: 1,
         href: "/blog/embed-video-files/",
         title: "Embed Video Files x",
         description: "Use the video shortcode to embed your video files from Hugo Page Resources.\n",
@@ -998,7 +1006,7 @@
       }
     ).add(
       {
-        id: 1,
+        id: 2,
         href: "/blog/image-optimization/",
         title: "Image Optimization",
         description: "The theme optimizes images by default with a custom Hugo&rsquo;s markdown render hook:\nThe theme creates resized versions for each image, ranging from 100 to 700 pixels wide. It generates WebP versions for each size if the original image format isn&rsquo;t WebP. The theme keeps the original file format as a fallback for browsers that don&rsquo;t support the WebP format. Images in SVG format are embedded as-is. Blog Post Cover Images# Use the front matter of your posts to add cover images:",
@@ -1006,7 +1014,7 @@
       }
     ).add(
       {
-        id: 2,
+        id: 3,
         href: "/blog/prism-code-highlighting-showcase/",
         title: "Prism Code Highlighting Showcase",
         description: "This theme uses Prism for code highlighting. Other Hugo themes usually include a pre-configured version of Prism, which complicates updates and clutters the source code base with third-party JavaScript.\nOnly the Prism features you select in the Hugo site configuration are bundled by the build process. This way, Prism can be easily updated with npm and the size of the JavaScript and CSS bundles are minimized by only including what you need.\n",
@@ -1014,7 +1022,7 @@
       }
     ).add(
       {
-        id: 3,
+        id: 4,
         href: "/blog/markdown-syntax/",
         title: "Markdown Syntax Guide",
         description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
@@ -1022,7 +1030,7 @@
       }
     ).add(
       {
-        id: 4,
+        id: 5,
         href: "/blog/rich-content/",
         title: "Rich Content",
         description: "A brief description of Hugo Shortcodes",
@@ -1030,7 +1038,7 @@
       }
     ).add(
       {
-        id: 5,
+        id: 6,
         href: "/blog/placeholder-text/",
         title: "Placeholder Text",
         description: "Lorem Ipsum Dolor Si Amet",
@@ -1038,7 +1046,7 @@
       }
     ).add(
       {
-        id: 6,
+        id: 7,
         href: "/blog/math-typesetting/",
         title: "Math Typesetting",
         description: "A brief guide to setup KaTeX",
@@ -1046,7 +1054,7 @@
       }
     ).add(
       {
-        id: 7,
+        id: 8,
         href: "/blog/emoji-support/",
         title: "Emoji Support",
         description: "Guide to emoji usage in Hugo",
