@@ -15,3 +15,15 @@ cover:
 Installing Oh My Zsh on a Linux system is a straightforward process that
 enhances the default shell with additional features and themes. Here’s a
 step-by-step guide to install Oh My Zsh:
+
+1. Prerequisites: Make sure you have zsh installed on your system. You can
+   install it using your package manager. For example, on Ubuntu, you can
+   install it with:
+
+    <!-- markdownlint-disable MD033 -->
+    <pre class="command-line language-bash" data-user="luis" data-host="machine">
+      <code>
+        sudo apt update
+        sudo apt install zsh
+      </code>
+    </pre>
