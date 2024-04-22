@@ -27,3 +27,15 @@ step-by-step guide to install Oh My Zsh:
         sudo apt install zsh
       </code>
     </pre>
+
+2. Install Oh My Zsh: You can install Oh My Zsh via the curl or wget command.
+   Here are the commands for both methods:
+
+   Using curl:
+
+      <!-- markdownlint-disable MD033 -->
+      <pre class="command-line language-bash" data-user="luis" data-host="machine">
+        <code>
+          sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+        </code>
+      </pre>
