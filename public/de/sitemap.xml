@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/de/categories/</loc>
+    <loc>http://localhost:1313/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/categories/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/categories/"
+                href="http://localhost:1313/de/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/de/</loc>
+    <loc>http://localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/"
+                href="http://localhost:1313/de/categories/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/de/cv/</loc>
+    <loc>http://localhost:1313/de/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/cv/"
+                href="http://localhost:1313/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/cv/"
+                href="http://localhost:1313/de/cv/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/de/series/</loc>
+    <loc>http://localhost:1313/de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/series/"
+                href="http://localhost:1313/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/series/"
+                href="http://localhost:1313/de/series/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/de/tags/</loc>
+    <loc>http://localhost:1313/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
   </url>
 </urlset>
