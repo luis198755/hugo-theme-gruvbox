@@ -39,3 +39,25 @@ step-by-step guide to install Oh My Zsh:
           sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
         </code>
       </pre>
+
+3. Change your default shell: After installing Oh My Zsh, you might want to
+   change your default shell to zsh if it isn't already. You can do this by
+   running:
+
+    <!-- markdownlint-disable MD033 -->
+    <pre class="command-line language-bash" data-user="luis" data-host="machine">
+      <code>
+        chsh -s $(which zsh)
+      </code>
+    </pre>
+
+   You will need to log out and log back in to see this change.
+
+4. Customize your environment: Oh My Zsh comes with lots of themes and plugins.
+   You can change themes by modifying the ZSH_THEME variable in the ~/.zshrc
+   file. Plugins can be added by editing the plugins array in the same file.
+
+This will set up a robust, feature-rich shell environment using Oh My Zsh,
+making your terminal more user-friendly and visually appealing.
+
+Oh my Zsh web: <https://ohmyz.sh/>
