@@ -28,8 +28,8 @@ step-by-step guide to install Oh My Zsh:
       </code>
     </pre>
 
-2. Install Oh My Zsh: You can install Oh My Zsh via the curl or wget command.
-   Here are the commands for both methods:
+2. Install Oh My Zsh: You can install Oh My Zsh via the curl. Here are the
+   commands:
 
    Using curl:
 
