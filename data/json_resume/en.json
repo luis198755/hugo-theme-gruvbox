@@ -3,10 +3,10 @@
   "basics": {
     "name": "Luis Alberto Rodríguez Meneses",
     "label": "Scientist",
-    "image": "https://luisalberto.vercel.app/assets/img/me.webp",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/All_Saints_Catholic_Church_%28St._Peters%2C_Missouri%29_-_stained_glass%2C_sacristy%2C_Immaculate_Heart_detail.jpg/1200px-All_Saints_Catholic_Church_%28St._Peters%2C_Missouri%29_-_stained_glass%2C_sacristy%2C_Immaculate_Heart_detail.jpg",
     "email": "luiss_alberto@hotmail.com",
     "phone": "(+52) 2225469019",
-    "summary": "I'm a dedicated professional with a Ph.D. in Electronics, specializing in the realm of Internet of Things (IoT). My journey in electronics has led me to become an adept IoT developer, focusing on both the software and hardware aspects of innovative technologies.",
+    "summary": "I'm a Ph.D. in Electronics, specializing in the realm of Internet of Things (IoT). My journey in electronics has led me to become an adept IoT developer, focusing on both the software and hardware aspects of innovative technologies.",
     "location": {
       "city": "Puebla, México"
     },
