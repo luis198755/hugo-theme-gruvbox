@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Luis Alberto Rodríguez Meneses",
-    "label": "Scientist",
+    "label": "IoT Developer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/All_Saints_Catholic_Church_%28St._Peters%2C_Missouri%29_-_stained_glass%2C_sacristy%2C_Immaculate_Heart_detail.jpg/1200px-All_Saints_Catholic_Church_%28St._Peters%2C_Missouri%29_-_stained_glass%2C_sacristy%2C_Immaculate_Heart_detail.jpg",
     "email": "luiss_alberto@hotmail.com",
     "phone": "(+52) 2225469019",
@@ -19,18 +19,18 @@
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
+      "name": "TrafficLight de México",
+      "location": "Puebla, México",
+      "description": "TrafficLight de México is a Mexican company specializing in innovative engineering solutions primarily focused on public space functionality, energy, and mobility. They aim to transform public spaces to make them more efficient and user-friendly by utilizing creative engineering and data management. Their projects often integrate artistic and technical elements to enhance both the aesthetics and sustainability of urban environments",
+      "position": "Technical Leader of Research and Technological Development",
       "url": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "startDate": "2022-10-01",
+      "endDate": "",
+      "summary": "Management of projects and technological tasks in the field of smart cities. Leading the design, development, and implementation of Traffic Light Controls, environmental sensors, interactive controller for video mapping, and vehicle counting system using AI",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "AI",
+        "IoT Systems design",
+        "Environmental sensors"
       ]
     }
   ],
@@ -87,6 +87,10 @@
     }
   ],
   "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
     {
       "language": "English",
       "fluency": "Native speaker"
