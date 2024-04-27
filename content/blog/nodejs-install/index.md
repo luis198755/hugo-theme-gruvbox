@@ -37,8 +37,7 @@ Download Node.js as Package [Manager](https://nodejs.org/en/download/package-man
    <!-- markdownlint-disable MD033 -->
    <pre class="command-line language-bash" data-user="luis" data-host="machine">
       <code>
-         curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh \
-         | bash
+         curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
       </code>
    </pre>
 
