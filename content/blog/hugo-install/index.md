@@ -58,12 +58,12 @@ CentOS. Make sure to download the latest version of Go and Node.js.
   and architectures. Visit the latest release page, and scroll down to the
   Assets section.
 
-  1.  Download the [archive](https://github.com/gohugoio/hugo/releases/latest)
-      for the desired edition, operating system, and architecture
-  2.  Extract the archive
-  3.  Move the executable to the desired directory
-  4.  Add this directory to the PATH environment variable
-  5.  Verify that you have execute permission on the file
+  1. Download the [archive](https://github.com/gohugoio/hugo/releases/latest)
+     for the desired edition, operating system, and architecture
+  2. Extract the archive
+  3. Move the executable to the desired directory
+  4. Add this directory to the PATH environment variable
+  5. Verify that you have execute permission on the file
 
 ## Verify installation
 
@@ -82,7 +82,7 @@ configuration. To verify that HUGO is installed correctly, run:
 Run these commands to create a Hugo site with the Ananke theme. The next section
 provides an explanation of each command.
 
-<!-- markdownlint-disable-line MD013 -->
+<!-- markdownlint-disable MD033 -->
 <pre class="command-line language-bash" data-user="luis" data-host="machine">
    <code>
       hugo new site quickstart
