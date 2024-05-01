@@ -65,8 +65,9 @@
 
 <meta
   name="description"
-  content="Prerequisites# To install HUGO on a Linux system, you can follow these steps. These steps are generally applicable to most Linux distributions, such as Ubuntu, Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.
-Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian distribution of Linux include elementary OS, KDE neon, Linux Lite, Linux Mint, MX Linux, Pop!_OS, Ubuntu, Zorin OS, and others."
+  content="Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.
+Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:
+Corporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo’s embedded web server during development to instantly see changes to content, structure, behavior, and presentation."
 />
 
 <link rel="canonical" href="http://localhost:1313/blog/hugo-install/" />
@@ -74,14 +75,16 @@ Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian 
 
 
 <meta name="twitter:card" content="summary"><meta name="twitter:title" content="Hugo Install">
-<meta name="twitter:description" content="Prerequisites# To install HUGO on a Linux system, you can follow these steps. These steps are generally applicable to most Linux distributions, such as Ubuntu, Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.
-Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian distribution of Linux include elementary OS, KDE neon, Linux Lite, Linux Mint, MX Linux, Pop!_OS, Ubuntu, Zorin OS, and others.">
+<meta name="twitter:description" content="Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.
+Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:
+Corporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo’s embedded web server during development to instantly see changes to content, structure, behavior, and presentation.">
 
 <meta property="og:url" content="http://localhost:1313/blog/hugo-install/">
   <meta property="og:site_name" content="Blog">
   <meta property="og:title" content="Hugo Install">
-  <meta property="og:description" content="Prerequisites# To install HUGO on a Linux system, you can follow these steps. These steps are generally applicable to most Linux distributions, such as Ubuntu, Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.
-Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian distribution of Linux include elementary OS, KDE neon, Linux Lite, Linux Mint, MX Linux, Pop!_OS, Ubuntu, Zorin OS, and others.">
+  <meta property="og:description" content="Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.
+Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:
+Corporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo’s embedded web server during development to instantly see changes to content, structure, behavior, and presentation.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
   <meta property="article:section" content="blog">
@@ -90,11 +93,12 @@ Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian 
 
 
   <meta itemprop="name" content="Hugo Install">
-  <meta itemprop="description" content="Prerequisites# To install HUGO on a Linux system, you can follow these steps. These steps are generally applicable to most Linux distributions, such as Ubuntu, Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.
-Install Go Install Install Node.js Install# Option 1: Derivatives of the Debian distribution of Linux include elementary OS, KDE neon, Linux Lite, Linux Mint, MX Linux, Pop!_OS, Ubuntu, Zorin OS, and others.">
+  <meta itemprop="description" content="Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.
+Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:
+Corporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo’s embedded web server during development to instantly see changes to content, structure, behavior, and presentation.">
   <meta itemprop="datePublished" content="2024-04-26T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-04-26T00:00:00+00:00">
-  <meta itemprop="wordCount" content="176">
+  <meta itemprop="wordCount" content="373">
 
 
 
@@ -2027,11 +2031,30 @@ h1:hover .post-heading__anchor, h2:hover .post-heading__anchor, h3:hover .post-h
     </div>
 
     <div class="post-content">
-      <h2 id="prerequisites">Prerequisites<a href="#prerequisites" class="post-heading__anchor" aria-hidden="true">#</a>
+      <p>Hugo is a static site generator written in Go, optimized for speed and designed
+for flexibility. With its advanced templating system and fast asset pipelines,
+Hugo renders a complete site in seconds, often less.</p>
+<p>Due to its flexible framework, multilingual support, and powerful taxonomy
+system, Hugo is widely used to create:</p>
+<ul>
+<li>Corporate, government, nonprofit, education, news, event, and project sites</li>
+<li>Documentation sites</li>
+<li>Image portfolios</li>
+<li>Landing pages</li>
+<li>Business, professional, and personal blogs</li>
+<li>Resumes and CVs</li>
+</ul>
+<p>Use Hugo’s embedded web server during development to instantly see changes to
+content, structure, behavior, and presentation. Then deploy the site to your
+host, or push changes to your Git provider for automated builds and deployment.</p>
+<p>And with Hugo Modules, you can share content, assets, data, translations,
+themes, templates, and configuration with other projects via public or private
+Git repositories.</p>
+<h2 id="prerequisites">Prerequisites<a href="#prerequisites" class="post-heading__anchor" aria-hidden="true">#</a>
 </h2>
-<p>To install HUGO on a Linux system, you can follow these steps. These
-steps are generally applicable to most Linux distributions, such as Ubuntu,
-Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.</p>
+<p>To install HUGO on a Linux system, you can follow these steps. These steps are
+generally applicable to most Linux distributions, such as Ubuntu, Fedora, and
+CentOS. Make sure to download the latest version of Go and Node.js.</p>
 <ol>
 <li>Install Go</li>
 <li>Install Install Node.js</li>
@@ -2043,17 +2066,17 @@ Fedora, and CentOS. Make sure to download the latest version of Go and Node.js.<
 <p>Option 1: Derivatives of the Debian distribution of Linux include elementary
 OS, KDE neon, Linux Lite, Linux Mint, MX Linux, Pop!_OS, Ubuntu, Zorin OS,
 and others. To install the extended edition of Hugo:</p>
- <!-- markdownlint-disable MD033 -->
- <pre class="command-line language-bash" data-user="luis" data-host="machine">
-   <code>
-      sudo apt install hugo
-   </code>
- </pre>
+   <!-- markdownlint-disable MD033 -->
+   <pre class="command-line language-bash" data-user="luis" data-host="machine">
+     <code>
+        sudo apt install hugo
+     </code>
+   </pre>
 </li>
 <li>
-<p>OPtion 2: Prebuilt binaries are available for a variety of operating
-systems and architectures. Visit the latest release page, and scroll
-down to the Assets section.</p>
+<p>OPtion 2: Prebuilt binaries are available for a variety of operating systems
+and architectures. Visit the latest release page, and scroll down to the
+Assets section.</p>
 <ol>
 <li>Download the <a
   href="https://github.com/gohugoio/hugo/releases/latest"
@@ -2072,14 +2095,31 @@ for the desired edition, operating system, and architecture</li>
 </ul>
 <h2 id="verify-installation">Verify installation<a href="#verify-installation" class="post-heading__anchor" aria-hidden="true">#</a>
 </h2>
-<p>Open a new terminal window or type source ~/.bashrc to update your shell configuration.
-To verify that HUGO is installed correctly, run:</p>
+<p>Open a new terminal window or type source ~/.bashrc to update your shell
+configuration. To verify that HUGO is installed correctly, run:</p>
 <!-- markdownlint-disable MD033 -->
 <pre class="command-line language-bash" data-user="luis" data-host="machine">
    <code>
       hugo version
    </code>
 </pre>
+<h2 id="quick-start">Quick Start<a href="#quick-start" class="post-heading__anchor" aria-hidden="true">#</a>
+</h2>
+<p>Run these commands to create a Hugo site with the Ananke theme. The next section
+provides an explanation of each command.</p>
+<!-- markdownlint-disable MD033 -->
+<pre class="command-line language-bash" data-user="luis" data-host="machine">
+   <code>
+      hugo new site quickstart
+      cd quickstart
+      git init
+      git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+      echo "theme = 'ananke'" >> hugo.toml
+      hugo server
+   </code>
+</pre>
+<p>View your site at the URL displayed in your terminal. Press Ctrl + C to stop
+Hugo’s development server.</p>
 <p>Hugo installation web: <a
   href="https://gohugo.io/installation/linux/"
   
@@ -2304,6 +2344,7 @@ To verify that HUGO is installed correctly, run:</p>
     <li><a href="#prerequisites">Prerequisites</a></li>
     <li><a href="#install">Install</a></li>
     <li><a href="#verify-installation">Verify installation</a></li>
+    <li><a href="#quick-start">Quick Start</a></li>
   </ul>
 </nav>
         </nav>
