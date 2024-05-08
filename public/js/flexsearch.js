@@ -991,6 +991,14 @@
     index.add(
       {
         id: 0,
+        href: "/blog/git-init-repo/",
+        title: "Git Init Script for local Repo",
+        description: 'You can create a new file, for example, named setup_repo.sh, and then add the following contents to it: Prerequisites# Install Git and configured Create a GitHub account. SSH access set up for GitHub. Script# #!/bin/bash # Add a title to the README.md file echo "# prueba" >> README.md # Initialize a new Git repository git init # Add README.md to the staging area git add README.md # Commit the changes with a message git commit -m "',
+        content: 'You can create a new file, for example, named setup_repo.sh, and then add the following contents to it:\nPrerequisites# Install Git and configured Create a GitHub account. SSH access set up for GitHub. Script# #!/bin/bash # Add a title to the README.md file echo "# prueba" >> README.md # Initialize a new Git repository git init # Add README.md to the staging area git add README.md # Commit the changes with a message git commit -m "first commit" # Rename the default branch to main git branch -M main # Add a remote repository git remote add origin git@github.com:UserName/prueba.git # Push changes to the main branch of the remote repository # And set it to track the upstream branch git push -u origin main Make sure to grant execute permissions to your script by running:\nchmod +x setup_repo.sh You can then run the script from your terminal with:\n./setup_repo.sh This script assumes you have Git configured and SSH access set up for GitHub. Adjust the GitHub repository URL if necessary.\nGitHub web web: https://docs.github.com/\n'
+      }
+    ).add(
+      {
+        id: 1,
         href: "/blog/nodejs-install/",
         title: "Node.js Install",
         description: "Node.js\xAE is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.\nNode.js is similar in design to, and influenced by, systems like Ruby&rsquo;s Event Machine and Python&rsquo;s Twisted. Node.js takes the event model a bit further. It presents an event loop as a runtime construct instead of as a library. In other systems, there is always a blocking call to start the event-loop.",
@@ -998,7 +1006,7 @@
       }
     ).add(
       {
-        id: 1,
+        id: 2,
         href: "/blog/hugo-install/",
         title: "Hugo Install",
         description: "Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.\nDue to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:\nCorporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo\u2019s embedded web server during development to instantly see changes to content, structure, behavior, and presentation.",
@@ -1017,7 +1025,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 2,
+        id: 3,
         href: "/blog/go-install/",
         title: "Go Install",
         description: "The Go programming language is an open source project to make programmers more productive.\nGo is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It&rsquo;s a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.",
@@ -1025,7 +1033,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 3,
+        id: 4,
         href: "/blog/oh-my-zsh/",
         title: "Oh my Zsh Install",
         description: "Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout&hellip;\nPrerequisites# Installing Oh My Zsh on a Linux system is a straightforward process that enhances the default shell with additional features and themes. Here\u2019s a step-by-step guide to install Oh My Zsh:\nMake sure you have zsh installed on your system.",
@@ -1033,7 +1041,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 4,
+        id: 5,
         href: "/blog/embed-video-files/",
         title: "Embed Video Files x",
         description: "Use the video shortcode to embed your video files from Hugo Page Resources.\n",
@@ -1041,7 +1049,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 5,
+        id: 6,
         href: "/blog/image-optimization/",
         title: "Image Optimization",
         description: "The theme optimizes images by default with a custom Hugo&rsquo;s markdown render hook:\nThe theme creates resized versions for each image, ranging from 100 to 700 pixels wide. It generates WebP versions for each size if the original image format isn&rsquo;t WebP. The theme keeps the original file format as a fallback for browsers that don&rsquo;t support the WebP format. Images in SVG format are embedded as-is. Blog Post Cover Images# Use the front matter of your posts to add cover images:",
@@ -1049,7 +1057,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 6,
+        id: 7,
         href: "/blog/prism-code-highlighting-showcase/",
         title: "Prism Code Highlighting Showcase",
         description: "This theme uses Prism for code highlighting. Other Hugo themes usually include a pre-configured version of Prism, which complicates updates and clutters the source code base with third-party JavaScript.\nOnly the Prism features you select in the Hugo site configuration are bundled by the build process. This way, Prism can be easily updated with npm and the size of the JavaScript and CSS bundles are minimized by only including what you need.\n",
@@ -1057,7 +1065,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 7,
+        id: 8,
         href: "/blog/markdown-syntax/",
         title: "Markdown Syntax Guide",
         description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements.",
@@ -1065,7 +1073,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 8,
+        id: 9,
         href: "/blog/rich-content/",
         title: "Rich Content",
         description: "A brief description of Hugo Shortcodes",
@@ -1073,7 +1081,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 9,
+        id: 10,
         href: "/blog/placeholder-text/",
         title: "Placeholder Text",
         description: "Lorem Ipsum Dolor Si Amet",
@@ -1081,7 +1089,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 10,
+        id: 11,
         href: "/blog/math-typesetting/",
         title: "Math Typesetting",
         description: "A brief guide to setup KaTeX",
@@ -1089,7 +1097,7 @@ Hugo installation web: https://gohugo.io/installation/linux/
       }
     ).add(
       {
-        id: 11,
+        id: 12,
         href: "/blog/emoji-support/",
         title: "Emoji Support",
         description: "Guide to emoji usage in Hugo",
