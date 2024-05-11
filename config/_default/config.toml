@@ -129,12 +129,12 @@ enableRobotsTXT = true
     iconName = "mail"
     formatString = "mailto:?subject={title}&body={url}"
 
-#[menu]
-#  [[menu.main]]
-#    identifier = "blog"
-#    name = "Blog"
-#    url = "/blog"
-#    weight = 10
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog"
+    weight = 10
 #  [[menu.main]]
 #    identifier = "cv"
 #    name = "CV"
