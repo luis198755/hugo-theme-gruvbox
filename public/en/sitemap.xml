@@ -2,145 +2,145 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/</loc>
+    <loc>https://blog.luissalberto.com/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/"
+                href="https://blog.luissalberto.com/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/"
+                href="https://blog.luissalberto.com/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/</loc>
+    <loc>https://blog.luissalberto.com/blog/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/git-init-repo/</loc>
+    <loc>https://blog.luissalberto.com/blog/git-init-repo/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/nodejs-install/</loc>
+    <loc>https://blog.luissalberto.com/blog/nodejs-install/</loc>
     <lastmod>2024-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/hugo-install/</loc>
+    <loc>https://blog.luissalberto.com/blog/hugo-install/</loc>
     <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/go-install/</loc>
+    <loc>https://blog.luissalberto.com/blog/go-install/</loc>
     <lastmod>2024-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/oh-my-zsh/</loc>
+    <loc>https://blog.luissalberto.com/blog/oh-my-zsh/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/</loc>
+    <loc>https://blog.luissalberto.com/blog/embed-video-files/</loc>
     <lastmod>2022-04-26T01:16:18+02:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/image-optimization/</loc>
+    <loc>https://blog.luissalberto.com/blog/image-optimization/</loc>
     <lastmod>2021-10-16T23:51:37+02:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/prism-code-highlighting-showcase/</loc>
+    <loc>https://blog.luissalberto.com/blog/prism-code-highlighting-showcase/</loc>
     <lastmod>2021-07-28T04:25:37+02:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/categories/</loc>
+    <loc>https://blog.luissalberto.com/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/categories/"
+                href="https://blog.luissalberto.com/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/categories/"
+                href="https://blog.luissalberto.com/categories/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/css/</loc>
+    <loc>https://blog.luissalberto.com/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/html/</loc>
+    <loc>https://blog.luissalberto.com/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/hugo-basic-example/</loc>
+    <loc>https://blog.luissalberto.com/tags/hugo-basic-example/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/markdown/</loc>
+    <loc>https://blog.luissalberto.com/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/markdown-syntax/</loc>
+    <loc>https://blog.luissalberto.com/blog/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/series/</loc>
+    <loc>https://blog.luissalberto.com/series/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/series/"
+                href="https://blog.luissalberto.com/de/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/series/"
+                href="https://blog.luissalberto.com/series/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/categories/syntax/</loc>
+    <loc>https://blog.luissalberto.com/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/</loc>
+    <loc>https://blog.luissalberto.com/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/tags/"
+                href="https://blog.luissalberto.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/tags/"
+                href="https://blog.luissalberto.com/tags/"
                 />
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/categories/themes/</loc>
+    <loc>https://blog.luissalberto.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/series/themes-guide/</loc>
+    <loc>https://blog.luissalberto.com/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/privacy/</loc>
+    <loc>https://blog.luissalberto.com/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/rich-content/</loc>
+    <loc>https://blog.luissalberto.com/blog/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/shortcodes/</loc>
+    <loc>https://blog.luissalberto.com/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/placeholder-text/</loc>
+    <loc>https://blog.luissalberto.com/blog/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/text/</loc>
+    <loc>https://blog.luissalberto.com/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/math-typesetting/</loc>
+    <loc>https://blog.luissalberto.com/blog/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/tags/emoji/</loc>
+    <loc>https://blog.luissalberto.com/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/blog/emoji-support/</loc>
+    <loc>https://blog.luissalberto.com/blog/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/about/</loc>
+    <loc>https://blog.luissalberto.com/about/</loc>
   </url><url>
-    <loc>https://hugo-theme-gruvbox.schnerring.net/cv/</loc>
+    <loc>https://blog.luissalberto.com/cv/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://hugo-theme-gruvbox.schnerring.net/de/cv/"
+                href="https://blog.luissalberto.com/de/cv/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-theme-gruvbox.schnerring.net/cv/"
+                href="https://blog.luissalberto.com/cv/"
                 />
   </url>
 </urlset>

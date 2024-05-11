@@ -2,116 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>https://hugo-theme-gruvbox.schnerring.net/</link>
+    <link>https://blog.luissalberto.com/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo 0.125.2</generator>
     <language>en</language>
     <copyright>Copyright © 2021</copyright>
     <lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://hugo-theme-gruvbox.schnerring.net/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.luissalberto.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Init Script for local Repo</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/git-init-repo/</link>
+      <link>https://blog.luissalberto.com/blog/git-init-repo/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/git-init-repo/</guid>
+      <guid>https://blog.luissalberto.com/blog/git-init-repo/</guid>
       <description>You can create a new file, for example, named setup_repo.sh, and then add the following contents to it:&#xA;Prerequisites# Install Git and configured Create a GitHub account. SSH access set up for GitHub. Script# #!/bin/bash # Add a title to the README.md file echo &#34;# prueba&#34; &gt;&gt; README.md # Initialize a new Git repository git init # Add README.md to the staging area git add README.md # Commit the changes with a message git commit -m &#34;</description>
     </item>
     <item>
       <title>Node.js Install</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/nodejs-install/</link>
+      <link>https://blog.luissalberto.com/blog/nodejs-install/</link>
       <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/nodejs-install/</guid>
+      <guid>https://blog.luissalberto.com/blog/nodejs-install/</guid>
       <description>Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.&#xA;Node.js is similar in design to, and influenced by, systems like Ruby&amp;rsquo;s Event Machine and Python&amp;rsquo;s Twisted. Node.js takes the event model a bit further. It presents an event loop as a runtime construct instead of as a library. In other systems, there is always a blocking call to start the event-loop.</description>
     </item>
     <item>
       <title>Hugo Install</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/hugo-install/</link>
+      <link>https://blog.luissalberto.com/blog/hugo-install/</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/hugo-install/</guid>
+      <guid>https://blog.luissalberto.com/blog/hugo-install/</guid>
       <description>Hugo is a static site generator written in Go, optimized for speed and designed for flexibility. With its advanced templating system and fast asset pipelines, Hugo renders a complete site in seconds, often less.&#xA;Due to its flexible framework, multilingual support, and powerful taxonomy system, Hugo is widely used to create:&#xA;Corporate, government, nonprofit, education, news, event, and project sites Documentation sites Image portfolios Landing pages Business, professional, and personal blogs Resumes and CVs Use Hugo’s embedded web server during development to instantly see changes to content, structure, behavior, and presentation.</description>
     </item>
     <item>
       <title>Go Install</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/go-install/</link>
+      <link>https://blog.luissalberto.com/blog/go-install/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/go-install/</guid>
+      <guid>https://blog.luissalberto.com/blog/go-install/</guid>
       <description>The Go programming language is an open source project to make programmers more productive.&#xA;Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It&amp;rsquo;s a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language.</description>
     </item>
     <item>
       <title>Oh my Zsh Install</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/oh-my-zsh/</link>
+      <link>https://blog.luissalberto.com/blog/oh-my-zsh/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/oh-my-zsh/</guid>
+      <guid>https://blog.luissalberto.com/blog/oh-my-zsh/</guid>
       <description>Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout&amp;hellip;&#xA;Prerequisites# Installing Oh My Zsh on a Linux system is a straightforward process that enhances the default shell with additional features and themes. Here’s a step-by-step guide to install Oh My Zsh:&#xA;Make sure you have zsh installed on your system.</description>
     </item>
     <item>
       <title>Embed Video Files x</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/</link>
+      <link>https://blog.luissalberto.com/blog/embed-video-files/</link>
       <pubDate>Tue, 26 Apr 2022 01:16:18 +0200</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/</guid>
-      <description>&lt;p&gt;Use the&#xA;&lt;a&#xA;  href=&#34;https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;video shortcode&lt;/a&gt;&#xA;to embed your video files from&#xA;&lt;a&#xA;  href=&#34;https://gohugo.io/content-management/page-resources/&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;Hugo Page Resources&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;video&#xA;    autoplay&#xA;    &#xA;    &#xA;    loop&#xA;    &#xA;    poster=&#34;/blog/embed-video-files/my-video.jpg&#34;&#xA;    &#xA;    &#xA;    playsinline&#xA;  &gt;&lt;source src=&#34;https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/my-video.mp4&#34; type=&#34;video/mp4&#34; /&gt;&lt;source src=&#34;https://hugo-theme-gruvbox.schnerring.net/blog/embed-video-files/my-video.webm&#34; type=&#34;video/webm&#34; /&gt;&lt;/video&gt;</description>
+      <guid>https://blog.luissalberto.com/blog/embed-video-files/</guid>
+      <description>&lt;p&gt;Use the&#xA;&lt;a&#xA;  href=&#34;https://github.com/schnerring/hugo-theme-gruvbox/blob/main/layouts/shortcodes/video.html&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;video shortcode&lt;/a&gt;&#xA;to embed your video files from&#xA;&lt;a&#xA;  href=&#34;https://gohugo.io/content-management/page-resources/&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;Hugo Page Resources&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;  &lt;video&#xA;    autoplay&#xA;    &#xA;    &#xA;    loop&#xA;    &#xA;    poster=&#34;/blog/embed-video-files/my-video.jpg&#34;&#xA;    &#xA;    &#xA;    playsinline&#xA;  &gt;&lt;source src=&#34;https://blog.luissalberto.com/blog/embed-video-files/my-video.mp4&#34; type=&#34;video/mp4&#34; /&gt;&lt;source src=&#34;https://blog.luissalberto.com/blog/embed-video-files/my-video.webm&#34; type=&#34;video/webm&#34; /&gt;&lt;/video&gt;</description>
     </item>
     <item>
       <title>Image Optimization</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/image-optimization/</link>
+      <link>https://blog.luissalberto.com/blog/image-optimization/</link>
       <pubDate>Sat, 16 Oct 2021 23:51:37 +0200</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/image-optimization/</guid>
+      <guid>https://blog.luissalberto.com/blog/image-optimization/</guid>
       <description>The theme optimizes images by default with a custom Hugo&amp;rsquo;s markdown render hook:&#xA;The theme creates resized versions for each image, ranging from 100 to 700 pixels wide. It generates WebP versions for each size if the original image format isn&amp;rsquo;t WebP. The theme keeps the original file format as a fallback for browsers that don&amp;rsquo;t support the WebP format. Images in SVG format are embedded as-is. Blog Post Cover Images# Use the front matter of your posts to add cover images:</description>
     </item>
     <item>
       <title>Prism Code Highlighting Showcase</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/prism-code-highlighting-showcase/</link>
+      <link>https://blog.luissalberto.com/blog/prism-code-highlighting-showcase/</link>
       <pubDate>Wed, 28 Jul 2021 04:25:37 +0200</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/prism-code-highlighting-showcase/</guid>
+      <guid>https://blog.luissalberto.com/blog/prism-code-highlighting-showcase/</guid>
       <description>&lt;p&gt;This theme uses &lt;a&#xA;  href=&#34;https://prismjs.com/&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;Prism&lt;/a&gt; for code highlighting. Other Hugo&#xA;themes usually include a pre-configured version of Prism, which complicates&#xA;updates and clutters the source code base with third-party JavaScript.&lt;/p&gt;&#xA;&lt;p&gt;Only the Prism features you select in the Hugo site configuration are bundled by&#xA;the build process. This way, Prism can be easily updated with &lt;code&gt;npm&lt;/code&gt; and the&#xA;size of the JavaScript and CSS bundles are minimized by only including what you&#xA;need.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/markdown-syntax/</link>
+      <link>https://blog.luissalberto.com/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/markdown-syntax/</guid>
+      <guid>https://blog.luissalberto.com/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/rich-content/</link>
+      <link>https://blog.luissalberto.com/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/rich-content/</guid>
+      <guid>https://blog.luissalberto.com/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a&#xA;  href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a&#xA;  href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&#xA;  &#xA;  &#xA;    class=&#34;link--external&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&#xA;  &#xA;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/placeholder-text/</link>
+      <link>https://blog.luissalberto.com/blog/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/placeholder-text/</guid>
+      <guid>https://blog.luissalberto.com/blog/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/math-typesetting/</link>
+      <link>https://blog.luissalberto.com/blog/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/math-typesetting/</guid>
+      <guid>https://blog.luissalberto.com/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/blog/emoji-support/</link>
+      <link>https://blog.luissalberto.com/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/blog/emoji-support/</guid>
+      <guid>https://blog.luissalberto.com/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/about/</link>
+      <link>https://blog.luissalberto.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/about/</guid>
+      <guid>https://blog.luissalberto.com/about/</guid>
       <description>Attributions# This theme depends on the following projects:&#xA;Powered by Hugo Color scheme based on Gruvbox Code Highlighting by Prism Tabler Icons Simple Icons Content with the #hugo-basic-example tag originates from gohugoio/hugoBasicExample A big thanks to the creators! ❤️&#xA;The profile picture of Richard Hendricks is from the Fandom Silicon Valley Wiki.&#xA;Legal# The theme is licensed under MIT.&#xA;All trademarks are the property of their respective owners.</description>
     </item>
     <item>
       <title>CV</title>
-      <link>https://hugo-theme-gruvbox.schnerring.net/cv/</link>
+      <link>https://blog.luissalberto.com/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hugo-theme-gruvbox.schnerring.net/cv/</guid>
+      <guid>https://blog.luissalberto.com/cv/</guid>
       <description>Experience# Technical Leader of Research and Technological Development 2022-10-01 - present TrafficLight de México — TrafficLight de México is a Mexican company specializing in innovative engineering solutions primarily focused on public space functionality, energy, and mobility. They aim to transform public spaces to make them more efficient and user-friendly by utilizing creative engineering and data management. Their projects often integrate artistic and technical elements to enhance both the aesthetics and sustainability of urban environments Puebla, México Management of projects and technological tasks in the field of smart cities.</description>
     </item>
   </channel>
